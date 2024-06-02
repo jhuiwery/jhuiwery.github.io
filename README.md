@@ -1,7 +1,8 @@
-[Hux Blog](https://huangxuan.me)
+Jhuiwery Blog
 ================================
 
-> I never expected this to become popular.
+> Original Author: Hux <br>
+> [Original Page:](https://huangxuan.me)
 
 ![](http://huangxuan.me/img/blog-desktop.jpg)
 
